@@ -10,18 +10,18 @@
 - brain-gcd. Определение наибольшего общего делителя
 - brain-prime. Определение простого числа
 
-##Минимальные требования
+## Минимальные требования
 - Python > 3.6
 - pip > 19.0
 - Poetry > 1.2.0
 
-##Установка и запуск
+## Установка и запуск
 1. Склонируйте репозиторий локально.
 2. Установите зависимости командой `make install`.
 3. Запуск игр производится командой `make {game_name}`. Например, `make brain-even`. 
 4. Чтобы выйти из игры, нажмите Ctrl + Z. 
 
-##Примеры партий игр
+## Примеры партий игр
 
 Example of a brain-even session:
 [![asciicast](https://asciinema.org/a/MYh0w0OS89fLj4S9xaHDf5GpX.svg)](https://asciinema.org/a/MYh0w0OS89fLj4S9xaHDf5GpX)
